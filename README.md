@@ -1,0 +1,1 @@
+A text file compressor based on huffman coding algorithm.
